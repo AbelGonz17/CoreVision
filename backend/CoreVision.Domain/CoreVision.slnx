@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="CoreVision.Api/CoreVision.Api.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="CoreVision.Application/CoreVision.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="CoreVision.Domain/CoreVision.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="CoreVision.Infrastructure/CoreVision.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@CoreVision.Api_HostAddress = http://localhost:5094
+
+GET {{CoreVision.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
